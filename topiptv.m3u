@@ -1,13 +1,11 @@
-#EXTM3U
+#EXTM3U url-tvg="http://topiptv.info/download/topiptv.xml.gz" cache=1000 deinterlace=1
 
 #EXTINF:-1 group-title="Общие",Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
 #EXTINF:-1 group-title="Общие",Россия 24 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
->>>
 #EXTINF:-1 group-title="Общие",Первый канал
 https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8?checkedby:hlscat.com
-<<<
 #EXTINF:-1 group-title="Общие",РТР Россия
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 
